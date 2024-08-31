@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r9tHSHeVmoM=",
+  "success": true,
+  "projectFilePath": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\SAOnlineMart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
