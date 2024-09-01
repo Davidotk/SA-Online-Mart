@@ -13,7 +13,7 @@ namespace SAOnlineMart.API.Models
         
 
         // Navigation properties
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
         public ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
         public ICollection<CartItem> CartItems { get; set; } = new List<CartItem>();
     }
