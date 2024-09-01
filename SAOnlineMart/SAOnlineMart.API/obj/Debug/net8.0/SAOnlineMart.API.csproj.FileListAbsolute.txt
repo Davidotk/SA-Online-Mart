@@ -8,6 +8,7 @@ C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\SAOnlineMart.API.pd
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Azure.Core.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Azure.Identity.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Humanizer.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\System.Net.Http.Formatting.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -32,6 +33,8 @@ C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Microsoft.OpenApi.d
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

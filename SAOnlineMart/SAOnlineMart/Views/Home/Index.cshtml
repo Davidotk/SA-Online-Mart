@@ -1,8 +1,35 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model IEnumerable<SAOnlineMart.API.Models.Product>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<h1>Welcome to SA Online Mart</h1>
+<p>Browse our categories and featured products below.</p>
+
+<div>
+    <h2>Featured Products</h2>
+    <div>
+        @foreach (var product in Model)
+        {
+            <div>
+                <h3>
+                    <a href="@Url.Action("Details", "Home", new { id = product.ProductID })">@product.Name</a>
+                </h3>
+                <p>@product.Description</p>
+                <p>Price: @product.Price</p>
+                <a href="@Url.Action("Details", "Home", new { id = product.ProductID })">View Details</a>
+            </div>
+        }
+    </div>
 </div>
+
+<div>
+    <h2>Categories</h2>
+    <div>
+        @foreach (var category in ViewBag.Categories)
+        {
+            <div>
+                <a href="@Url.Action("Index", "Home", new { categoryId = category.CategoryID })">@category.Name</a>
+            </div>
+        }
+    </div>
+</div>
+<a href="@Url.Action("Cart", "Home")" class="btn btn-secondary">View Cart</a>
+

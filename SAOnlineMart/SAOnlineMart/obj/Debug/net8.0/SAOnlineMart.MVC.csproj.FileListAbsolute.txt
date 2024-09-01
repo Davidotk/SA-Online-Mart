@@ -1,3 +1,6 @@
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\SAOnlineMart.API.deps.json
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\SAOnlineMart.API.runtimeconfig.json
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\SAOnlineMart.API.exe
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\appsettings.Development.json
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\appsettings.json
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\SAOnlineMart.MVC.staticwebassets.runtime.json
@@ -9,6 +12,7 @@ C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\SAOnlineMart.MVC.pdb
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Azure.Core.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Azure.Identity.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Humanizer.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.Net.Http.Formatting.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -29,9 +33,15 @@ C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.IdentityModel
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.CodeDom.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -110,11 +120,14 @@ C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\runtimes\win\lib\net6.0
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\SAOnlineMart.API.dll
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\SAOnlineMart.API.pdb
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.csproj.AssemblyReference.cache
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.AssemblyInfoInputs.cache
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.AssemblyInfo.cs
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.csproj.CoreCompileInputs.cache
+C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.RazorAssemblyInfo.cache
 C:\ITEHA TAAK\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.MVC.RazorAssemblyInfo.cs

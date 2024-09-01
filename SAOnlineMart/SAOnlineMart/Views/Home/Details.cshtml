@@ -1,0 +1,15 @@
+﻿@model SAOnlineMart.API.Models.Product
+
+<h1>@Model.Name</h1>
+<p>@Model.Description</p>
+<p>Price: @Model.Price</p>
+<p>Stock: @Model.Stock</p>
+
+<form asp-action="AddToCart" method="post">
+    <input type="hidden" name="ProductId" value="@Model.ProductID" />
+    <label for="quantity">Quantity:</label>
+    <input type="number" id="quantity" name="Quantity" value="1" min="1" max="@Model.Stock" />
+    <button type="submit">Add to Cart</button>
+</form>
+
+<a href="@Url.Action("Index", "Home")">Back to Products</a>

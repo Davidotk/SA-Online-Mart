@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\ITEHA TAAK\\SAOnlineMart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\models\\carts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\models\\carts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|solutionrelative:saonlinemart.api\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Migrations\\20240901005735_UpdateProductSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SAOnlineMart.API\\Migrations\\20240901005735_UpdateProductSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\views\\home\\productlisting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\views\\home\\productlisting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart\\wwwroot\\css\\saonlinemart.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{65BFD050-6434-4136-A9DE-C108C4F077FC}|SAOnlineMart\\SAOnlineMart.MVC.csproj|solutionrelative:saonlinemart\\wwwroot\\css\\saonlinemart.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EF45BFB-840D-40CC-817D-8C7B9687045E}|SAOnlineMart.API\\SAOnlineMart.API.csproj|c:\\iteha taak\\saonlinemart\\saonlinemart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,128 +58,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Program.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Program.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Program.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:32:10.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\User.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Models\\User.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\User.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:25:20.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\OrderItem.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:24:08.109Z",
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "SAOnlineMart\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T04:26:16.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Models\\Order.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Order.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Title": "Carts.cs",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Carts.cs",
+              "RelativeDocumentMoniker": "SAOnlineMart.API\\Models\\Carts.cs",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Carts.cs",
+              "RelativeToolTip": "SAOnlineMart.API\\Models\\Carts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:23:26.144Z",
+              "WhenOpened": "2024-09-01T04:07:40.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Models\\Category.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Category.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Models\\SessionExtensions.cs",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "SAOnlineMart\\Models\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:23:11.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Models\\CartItem.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\CartItem.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:22:39.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Models\\Address.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Address.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Models\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T01:21:59.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240901005735_UpdateProductSchema.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Migrations\\20240901005735_UpdateProductSchema.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Migrations\\20240901005735_UpdateProductSchema.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Migrations\\20240901005735_UpdateProductSchema.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Migrations\\20240901005735_UpdateProductSchema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T00:57:35.287Z",
+              "WhenOpened": "2024-09-01T03:47:02.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "SAOnlineMart.API\\Models\\Product.cs",
-              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\Models\\Product.cs",
-              "RelativeToolTip": "SAOnlineMart.API\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Program.cs",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Program.cs",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Program.cs",
+              "RelativeToolTip": "SAOnlineMart\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T00:55:51.32Z",
+              "WhenOpened": "2024-09-01T03:44:35.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Models\\CartItem.cs",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Models\\CartItem.cs",
+              "RelativeToolTip": "SAOnlineMart\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T03:38:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Models\\Cart.cs",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Models\\Cart.cs",
+              "RelativeToolTip": "SAOnlineMart\\Models\\Cart.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T03:38:19.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "SAOnlineMart\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T03:33:37.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SAOnlineMart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T03:29:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SAOnlineMart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T03:28:12.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ProductListing.cshtml",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Views\\Home\\ProductListing.cshtml",
+              "RelativeDocumentMoniker": "SAOnlineMart\\Views\\Home\\ProductListing.cshtml",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\Views\\Home\\ProductListing.cshtml",
+              "RelativeToolTip": "SAOnlineMart\\Views\\Home\\ProductListing.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T03:27:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SAOnlineMart.styles.css",
+              "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\wwwroot\\css\\SAOnlineMart.styles.css",
+              "RelativeDocumentMoniker": "SAOnlineMart\\wwwroot\\css\\SAOnlineMart.styles.css",
+              "ToolTip": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\wwwroot\\css\\SAOnlineMart.styles.css",
+              "RelativeToolTip": "SAOnlineMart\\wwwroot\\css\\SAOnlineMart.styles.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T03:22:30.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart.API\\appsettings.json",
               "RelativeDocumentMoniker": "SAOnlineMart.API\\appsettings.json",

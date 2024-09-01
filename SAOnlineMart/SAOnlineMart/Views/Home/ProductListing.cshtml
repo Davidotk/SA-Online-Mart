@@ -1,0 +1,15 @@
+﻿@model IEnumerable<SAOnlineMart.API.Models.Product>
+
+<h1>Product Listing</h1>
+@foreach (var category in Model.GroupBy(p => p.Category.Name))
+{
+    <h2>@category.Key</h2>
+    <ul>
+        @foreach (var product in category)
+        {
+            <li>
+                <a href="@Url.Action("Details", "Home", new { id = product.ProductID })">@product.Name</a> - @product.Price
+            </li>
+        }
+    </ul>
+}

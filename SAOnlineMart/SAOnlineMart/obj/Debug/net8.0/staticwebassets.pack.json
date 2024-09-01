@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\SAOnlineMart.MVC.bundle.scp.css"
     },
     {
+      "Id": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\wwwroot\\css\\SAOnlineMart.styles.css",
+      "PackagePath": "staticwebassets\\css\\SAOnlineMart.styles.css"
+    },
+    {
       "Id": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

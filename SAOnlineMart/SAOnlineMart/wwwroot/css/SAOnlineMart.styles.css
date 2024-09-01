@@ -1,0 +1,46 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+p {
+    margin: 5px 0;
+}
+
+.featured-products, .categories {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+    .featured-products div, .categories div {
+        background-color: #fff;
+        padding: 10px;
+        margin: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        width: calc(33.333% - 20px);
+        box-sizing: border-box;
+    }
+
+        .featured-products div h3, .categories div h3 {
+            margin: 0 0 10px 0;
+        }

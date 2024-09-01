@@ -12,3 +12,4 @@ namespace SAOnlineMart.API.Models
         public ICollection<CartItem> CartItems { get; set; }
     }
 }
+
