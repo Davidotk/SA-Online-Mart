@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SAOnlineMart.bundle.scp.css",
-      "PackagePath": "staticwebassets\\SAOnlineMart.bundle.scp.css"
+      "Id": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SAOnlineMart.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SAOnlineMart.MVC.bundle.scp.css"
     },
     {
       "Id": "C:\\ITEHA TAAK\\SAOnlineMart\\SAOnlineMart\\wwwroot\\css\\site.css",
@@ -421,20 +421,20 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SAOnlineMart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SAOnlineMart.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SAOnlineMart.props",
-      "PackagePath": "build\\SAOnlineMart.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SAOnlineMart.MVC.props",
+      "PackagePath": "build\\SAOnlineMart.MVC.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SAOnlineMart.props",
-      "PackagePath": "buildMultiTargeting\\SAOnlineMart.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SAOnlineMart.MVC.props",
+      "PackagePath": "buildMultiTargeting\\SAOnlineMart.MVC.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SAOnlineMart.props",
-      "PackagePath": "buildTransitive\\SAOnlineMart.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SAOnlineMart.MVC.props",
+      "PackagePath": "buildTransitive\\SAOnlineMart.MVC.props"
     }
   ],
   "ElementsToRemove": []

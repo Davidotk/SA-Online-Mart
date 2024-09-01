@@ -1,0 +1,6 @@
+@SAOnlineMart.API_HostAddress = http://localhost:5237
+
+GET {{SAOnlineMart.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

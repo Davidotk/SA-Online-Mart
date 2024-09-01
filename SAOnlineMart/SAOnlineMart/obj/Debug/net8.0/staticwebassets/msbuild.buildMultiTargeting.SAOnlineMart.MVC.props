@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SAOnlineMart.MVC.props" />
+</Project>

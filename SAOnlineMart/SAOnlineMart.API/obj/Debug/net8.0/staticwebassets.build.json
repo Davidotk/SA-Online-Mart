@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AbiXXdm1xFM5Du2tyaWMyrpeZBWIQsv2wyEJUsIGITY=",
+  "Source": "SAOnlineMart.API",
+  "BasePath": "_content/SAOnlineMart.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
