@@ -26,8 +26,8 @@ namespace SAOnlineMart.Controllers
 
             if (productResponse.IsSuccessStatusCode && categoryResponse.IsSuccessStatusCode)
             {
-                var products = await productResponse.Content.ReadAsAsync<IEnumerable<Product>>();
-                var categories = await categoryResponse.Content.ReadAsAsync<IEnumerable<Category>>();
+                var products = await productResponse.Content.ReadAsAsync<IEnumerable<SAOnlineMart.API.Models.Product>>();
+                var categories = await categoryResponse.Content.ReadAsAsync<IEnumerable<SAOnlineMart.API.Models.Category>>();
 
                 ViewBag.Categories = categories;
 
@@ -39,7 +39,7 @@ namespace SAOnlineMart.Controllers
                 return View(products);
             }
 
-            return View(new List<Product>());
+            return View(new List<SAOnlineMart.API.Models.Product>());
         }
 
         public IActionResult AddToCart(int productId, int quantity)
@@ -49,7 +49,7 @@ namespace SAOnlineMart.Controllers
             var productResponse = _httpClient.GetAsync($"https://localhost:7178/api/Products/{productId}").Result;
             if (productResponse.IsSuccessStatusCode)
             {
-                var product = productResponse.Content.ReadAsAsync<Product>().Result;
+                var product = productResponse.Content.ReadAsAsync<SAOnlineMart.API.Models.Product>().Result;
                 cart.AddItem(product, quantity);
                 HttpContext.Session.SetObject("Cart", cart);
             }
@@ -71,7 +71,6 @@ namespace SAOnlineMart.Controllers
             return RedirectToAction("Cart");
         }
 
-
         public IActionResult Privacy()
         {
             return View();
@@ -89,12 +88,13 @@ namespace SAOnlineMart.Controllers
 
             if (productResponse.IsSuccessStatusCode)
             {
-                var product = await productResponse.Content.ReadAsAsync<Product>();
+                var product = await productResponse.Content.ReadAsAsync<SAOnlineMart.API.Models.Product>();
                 return View(product);
             }
 
             return NotFound();
         }
+
         public IActionResult Cart()
         {
             // Get the cart from the session
@@ -102,6 +102,31 @@ namespace SAOnlineMart.Controllers
             return View(cart);
         }
 
+        public IActionResult Checkout()
+        {
+            // Get the cart from the session
+            SAOnlineMart.MVC.Models.Cart cart = HttpContext.Session.GetObject<SAOnlineMart.MVC.Models.Cart>("Cart") ?? new SAOnlineMart.MVC.Models.Cart();
+            return View(cart);
+        }
 
+        [HttpPost]
+        public IActionResult CompleteCheckout()
+        {
+            // Get the cart from the session
+            SAOnlineMart.MVC.Models.Cart cart = HttpContext.Session.GetObject<SAOnlineMart.MVC.Models.Cart>("Cart");
+
+            if (cart == null || !cart.Items.Any())
+            {
+                return RedirectToAction("Index");
+            }
+
+            // Here we would typically create an order in the database
+
+            // Clear the cart after purchase
+            cart.Clear();
+            HttpContext.Session.SetObject("Cart", cart);
+
+            return RedirectToAction("Index");
+        }
     }
 }

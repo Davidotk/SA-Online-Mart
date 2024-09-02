@@ -1,0 +1,34 @@
+﻿@model IEnumerable<SAOnlineMart.API.Models.Product>
+
+<h1>Admin Panel - Products</h1>
+
+<p>
+    <a href="@Url.Action("AddProduct", "Admin")" class="btn btn-primary">Add New Product</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Stock</td>
+                <td>
+                    <a href="@Url.Action("EditProduct", "Admin", new { id = product.ProductID })" class="btn btn-warning">Edit</a>
+                    <form asp-action="DeleteProduct" asp-controller="Admin" asp-route-id="@product.ProductID" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
