@@ -2,10 +2,10 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
 builder.Services.AddControllers();
 
-// Register the SAOnlineMartContext with the DI container
+// Register the SAOnlineMartContext 
 builder.Services.AddDbContext<SAOnlineMartContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SAOnlineMartConnection")));
 
@@ -23,7 +23,7 @@ builder.Services.AddControllers()
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

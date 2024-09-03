@@ -19,5 +19,5 @@ public class SAOnlineMartContext : DbContext
     public DbSet<CartItem> CartItems { get; set; }
     public DbSet<OrderItem> OrderItems { get; set; }
 
-    // You can add more DbSet properties if you add more entities to your project
+   
 }

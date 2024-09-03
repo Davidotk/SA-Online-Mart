@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SAOnlineMart.API.Models; // This is used for models from your API
+using SAOnlineMart.API.Models; 
 using SAOnlineMart.Models;
-using SAOnlineMart.MVC.Models; // This is used for your MVC models
+using SAOnlineMart.MVC.Models; 
 using System.Diagnostics;
 using System.Net.Http;
 using System.Threading.Tasks;

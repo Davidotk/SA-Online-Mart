@@ -11,7 +11,7 @@ namespace SAOnlineMart.API.Models
         public string? Email { get; set; }
         public string? PhoneNumber { get; set; }
 
-        // Navigation properties
+       
         public ICollection<Order> Orders { get; set; }
         public ICollection<Cart> Carts { get; set; }
         public ICollection<Address> Addresses { get; set; }
